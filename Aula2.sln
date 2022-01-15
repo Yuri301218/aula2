@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2.csproj", "{07A5DFA4-F47C-4B91-AD05-FF10C4AF1C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula2", "Aula2.csproj", "{07A5DFA4-F47C-4B91-AD05-FF10C4AF1C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "..\Criptografia\Criptografia.csproj", "{0D24C820-CF59-42F3-A407-FB1D73AF8D3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{07A5DFA4-F47C-4B91-AD05-FF10C4AF1C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A5DFA4-F47C-4B91-AD05-FF10C4AF1C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A5DFA4-F47C-4B91-AD05-FF10C4AF1C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D24C820-CF59-42F3-A407-FB1D73AF8D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D24C820-CF59-42F3-A407-FB1D73AF8D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D24C820-CF59-42F3-A407-FB1D73AF8D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D24C820-CF59-42F3-A407-FB1D73AF8D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
